@@ -1,5 +1,5 @@
 # pycrawler
-a simple crawler for reddit inpython
+a simple crawler for reddit in python
 
 packages reqiured:  
 * [matplotlib.pyplot](http://matplotlib.org/1.4.2/faq/installing_faq.html)
